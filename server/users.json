@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "fname": "Lakshman Kumar Sibbala",
+      "email": "lakshman.sibbala@neosoftmail.com",
+      "age": "25",
+      "mobile": "9440385447",
+      "course": "React JS",
+      "errorMsg": "",
+      "id": 1
+    },
+    
+    {
+      "fname": "sreekanth Meesala",
+      "email": "sree@gmail.com",
+      "age": "26",
+      "mobile": "9872662722",
+      "course": "React JS",
+      "errorMsg": "",
+      "id": 3
+    },
+    {
+      "fname": "pavan gajula",
+      "email": "pavan@gmail.com",
+      "age": "35",
+      "mobile": "9876543210",
+      "course": "CSS",
+      "errorMsg": "",
+      "id": 4
+    }
+  ]
+}
